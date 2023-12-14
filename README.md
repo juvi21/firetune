@@ -90,7 +90,6 @@ You can also pass your custom model in this parameter 'paraphrase_cosine_model_p
 Also supports some other metrics.
 
 
-
 ## LLM Tuning Techniques (more detailed version soon)
 
 - LORA & QLORA Fusion
