@@ -11,6 +11,7 @@ Firetune adheres to an "aggressive refactor" approach to maintain its standard o
 ## Quick Start
 
 Note: The setup.py is currently in refinement. If your GPU supports CUDA>=11.7 install with the cuda flag to isntall flash-attention and deepspeed. 
+More examples coming soon in the exa-folder.
 
 ```bash
 conda create -n firetuner
