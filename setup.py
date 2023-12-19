@@ -23,8 +23,9 @@ install_requires = [
     "transformers>=4.35.2",
     "tqdm",
     "safetensors",
-    "flash_attn",
-    "trl"
+    "trl",
+    "setence-transformers",
+    "openai",
 ]
 
 setup(
